@@ -1,0 +1,11 @@
+Model Information:
+* title:	0 8bh
+* source:	https://sketchfab.com/3d-models/0-8bh-772ac33e181a492ca7e56c88401d8001
+* author:	magnxt (https://sketchfab.com/magnxt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "0 8bh" (https://sketchfab.com/3d-models/0-8bh-772ac33e181a492ca7e56c88401d8001) by magnxt (https://sketchfab.com/magnxt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
